@@ -1,5 +1,8 @@
 # Colores NFT 
 
+Installation
+* npm install
+
 Instructions
 
 * truffle compile
